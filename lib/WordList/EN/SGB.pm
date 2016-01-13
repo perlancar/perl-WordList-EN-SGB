@@ -6,6 +6,8 @@ package WordList::EN::SGB;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: The Stanford GraphBase word list
 
